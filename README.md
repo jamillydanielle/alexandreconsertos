@@ -1,4 +1,4 @@
-# Alexandre — Central de links
+# Alexandre • Central de links
 
 Página de links do Alexandre Conserto de Geladeiras e Máquinas, em Lavras/MG.
 
