@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">Alexandre — geladeira e máquina de lavar</title>
+  <rect width="128" height="128" rx="26" fill="#125880"/>
+  <!-- A borda esquerda da geladeira desenha uma curva que separa os aparelhos. -->
+  <path fill="#fff" d="M79 19H103Q110 19 110 26V105Q110 112 103 112H82V86C82 70 78 61 70 55V28Q70 19 79 19Z"/>
+  <path fill="#125880" d="M82 66H110V70H82Z"/>
+  <rect x="97" y="34" width="4" height="17" rx="2" fill="#125880"/>
+  <rect x="97" y="80" width="4" height="17" rx="2" fill="#125880"/>
+  <!-- Máquina de lavar: uma silhueta única, sem traços sobrepostos. -->
+  <path fill="#fff" d="M25 55H61Q66 55 68 60L72 70Q74 73 74 78V105Q74 113 66 113H25Q17 113 17 105V79Q17 75 19 71L22 60Q23 55 25 55Z"/>
+  <path d="M20 74H70" stroke="#125880" stroke-width="2"/>
+  <circle cx="32" cy="64" r="2.8" fill="#125880"/>
+  <circle cx="43" cy="64" r="3.7" fill="#125880"/>
+  <circle cx="54" cy="64" r="2.8" fill="#125880"/>
+  <rect x="26" y="82" width="39" height="13" rx="6" fill="#125880"/>
+</svg>
